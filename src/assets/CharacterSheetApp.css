@@ -1,0 +1,12 @@
+.Component-section {
+  display: flex;
+}
+
+.Component {
+  display: inline-block;
+  width: 35%;
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-sizing: border-box;
+}
